@@ -1,4 +1,4 @@
-# E-commerce-Customer-Segmentation
+# E-Commerce Business Performance & Marketing Analytics
 
 Business Problem - "The client, a leading e-commerce marketplace, wants to improve business performance by understanding customer, seller, product, and payment behavior. The goal is to increase revenue, optimize marketing efforts, improve customer retention, and identify high-performing products and cross-selling opportunities through data-driven insights."
 
